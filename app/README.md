@@ -5,13 +5,7 @@
 3. Gradle 5.6.4
 4. 测试设备：Pixel 2 API 26（虚拟机）
 
-### 二、下载apk文件运行
-
-1. 下载homework目录里的homework-debug.apk 
-
-2. 运行查看app运行效果
-
-### 三、实验截图
+### 二、实验截图
 
 作业一：
 
